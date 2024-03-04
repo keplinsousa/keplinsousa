@@ -5,7 +5,7 @@
 
 ![Keplin GitHub stats](https://github-readme-stats.vercel.app/api?username=keplinsousa&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keplinsousa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keplinsousa&layout=compact&theme=radical)
 
 ### Tecnologias que eu estou aprendendo
 
